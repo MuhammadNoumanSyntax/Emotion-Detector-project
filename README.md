@@ -41,15 +41,20 @@ csharp
 Copy code
 Emotion-Detector/
 │
-├── static/               # CSS, JS, and image files
-├── templates/            # HTML templates
-├── app.py                 # Main Flask application
-├── requirements.txt       # Project dependencies
-└── README.md              # Documentation
+├── static/              
+      # CSS, JS, and image files
+├── templates/           
+      # HTML templates
+├── app.py                
+      # Main Flask application
+├── requirements.txt       
+      # Project dependencies
+└── README.md             
+      # Documentation
+      
 📋 Installation & Usage
-
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/emotion-detector.git
+git clone https://github.com/MuhammadNoumanSyntax/Emotion-Detector-project.git
 cd emotion-detector
 
 2️⃣ Install Dependencies
