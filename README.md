@@ -38,13 +38,13 @@ Flask backend for smooth communication between the frontend and AI service.
 
 📂 Project Structure
 Emotion-Detector/
+│
+├── 📂 static/           # CSS, JavaScript, and image assets
+├── 📂 templates/        # HTML templates for Flask
+├── 🐍 app.py            # Main Flask application
+├── 📜 requirements.txt  # Project dependencies
+└── 📘 README.md         # Project documentation
 
-─ static/              # CSS, JS, and image files
-─ templates/           # HTML templates
-─ app.py               # Main Flask application
-─ requirements.txt     # Project dependencies
-─ README.md            # Documentation
-      
 📋 Installation & Usage
 1️⃣ Clone the Repository
 git clone https://github.com/MuhammadNoumanSyntax/Emotion-Detector-project.git
