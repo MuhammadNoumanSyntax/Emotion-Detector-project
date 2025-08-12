@@ -37,20 +37,13 @@ Clear and easy-to-read output of emotions.
 Flask backend for smooth communication between the frontend and AI service.
 
 📂 Project Structure
-csharp
-Copy code
 Emotion-Detector/
-│
-├── static/              
-      # CSS, JS, and image files
-├── templates/           
-      # HTML templates
-├── app.py                
-      # Main Flask application
-├── requirements.txt       
-      # Project dependencies
-└── README.md             
-      # Documentation
+
+─ static/              # CSS, JS, and image files
+─ templates/           # HTML templates
+─ app.py               # Main Flask application
+─ requirements.txt     # Project dependencies
+─ README.md            # Documentation
       
 📋 Installation & Usage
 1️⃣ Clone the Repository
