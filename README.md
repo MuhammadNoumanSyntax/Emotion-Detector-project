@@ -46,9 +46,10 @@ Emotion-Detector/
 └── 📘 README.md         # Project documentation
 
 📋 Installation & Usage
+
 1️⃣ Clone the Repository
 git clone https://github.com/MuhammadNoumanSyntax/Emotion-Detector-project.git
-cd emotion-detector
+cd emotion-detector/
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
