@@ -47,23 +47,20 @@ Emotion-Detector/
 ├── requirements.txt       # Project dependencies
 └── README.md              # Documentation
 📋 Installation & Usage
+
 1️⃣ Clone the Repository
-bash
-Copy code
 git clone https://github.com/yourusername/emotion-detector.git
 cd emotion-detector
+
 2️⃣ Install Dependencies
-bash
-Copy code
 pip install -r requirements.txt
+
 3️⃣ Run the Application
-bash
-Copy code
 python app.py
+
 4️⃣ Access in Browser
-arduino
-Copy code
 http://localhost:5000
+
 📖 Course Link
 You can learn more about this course on Coursera:
 Developing AI Applications with Python and Flask
